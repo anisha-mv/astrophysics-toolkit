@@ -1,0 +1,8 @@
+name: astro_portfolio
+channels:
+  - defaults
+dependencies:
+  - astropy
+  - numpy
+  - scipy
+prefix: C:\Users\anish\anaconda3\envs\astro_portfolio
